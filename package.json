@@ -1,0 +1,27 @@
+{
+  "name": "stanislavpetrov-portfolio",
+  "version": "1.0.0",
+  "description": "Stanislav Petrov",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StanislavPetrov77/StanislavPetrov-Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StanislavPetrov77/StanislavPetrov-Portfolio/issues"
+  },
+  "homepage": "https://github.com/StanislavPetrov77/StanislavPetrov-Portfolio#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.2"
+  },
+  "dependencies": {
+    "@11ty/eleventy-img": "^2.0.1"
+  }
+}
