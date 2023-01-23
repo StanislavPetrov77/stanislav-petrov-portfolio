@@ -7,7 +7,7 @@ tech:
   - "JS"
   - "NodeJS"
   - "Bootstrap CSS"
-siteUrl: "www.google.com"
+siteUrl: "#"
 repoUrl: "#"
 ---
 
