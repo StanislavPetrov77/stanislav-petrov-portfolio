@@ -7,10 +7,11 @@ tech:
   - "JS"
   - "NodeJS"
   - "Bootstrap CSS"
-siteUrl: "[here](https://my4um-server.b4a.app/)"
+siteUrl: "#"
 repoUrl: "#"
 ---
 
 ### Technologies Used
 
 I used HTML, CSS, JavaScript and ReactJS in the front end, and NodeJS, ExpressJS, Parse server and MongoDB for the back end.
+Try it [here](https://my4um-server.b4a.app/)
