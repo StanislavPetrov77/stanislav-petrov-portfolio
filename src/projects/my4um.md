@@ -7,7 +7,7 @@ tech:
   - "JS"
   - "NodeJS"
   - "Bootstrap CSS"
-siteUrl: "#"
+siteUrl: "https://my4um-server.b4a.app/"
 repoUrl: "#"
 ---
 
