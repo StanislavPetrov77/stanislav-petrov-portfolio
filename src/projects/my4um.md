@@ -13,4 +13,4 @@ repoUrl: "#"
 
 ### Technologies Used
 
-I used JavaScript with Bootstrap CSS for the front end, and NodeJS and ExpressJS for the back end. Also used JWT token for user authentication, stored as a cookie.
+I used HTML, CSS, JavaScript and ReactJS in the front end, and NodeJS, ExpressJS, Parse server and MongoDB for the back end.
